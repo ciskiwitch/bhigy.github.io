@@ -22,3 +22,5 @@ lastfm_username: #jimeh
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
