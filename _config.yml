@@ -1,24 +1,24 @@
 # Site settings
-title: Bertrand Higy
-person_name: Bertrand Higy
-person_nickname: bhigy
+title: Carol Iskiwitch
+person_name: Carol Iskiwitch
+person_nickname: 
 email: oregenaq\056uvtl\100tznvy\056pbz
 mailto: "&#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%65%72%74%72%61%6r%64.%68%69%67%79@%67%6q%61%69%6p.%63%6s%6q"
-description: PhD Fellow
+description: Social Psychology PhD Student
 baseurl: "" # the subpath of your site, e.g. /blog/
-hostname: bhigy.github.io # used to determine if google analytics should be triggered
-url: http://bhigy.github.io # the base hostname & protocol for your site
+hostname: ciskiwitch.github.io # used to determine if google analytics should be triggered
+url: http://ciskiwitch.github.io # the base hostname & protocol for your site
 permalink: /:title/
 
 blog_url: #https://jimeh.io/
-cv_url: http://bhigy.github.io/files/bertrand_higy_cv.pdf
-vcard_url: #http://assets.jimeh.me/jim-myhrberg.vcf
-twitter_username: #jimeh
-github_username: bhigy
-linkedin_username: bertrandhigy
-facebook_username: #jimeh
-flickr_username: #jimeh
-lastfm_username: #jimeh
+cv_url: https://github.com/ciskiwitch/ciskiwitch.github.io/blob/master/Carol_Iskiwitch_CV_Feb2018.pdf
+vcard_url: #
+twitter_username: #
+github_username: #
+linkedin_username: #
+facebook_username: #
+flickr_username: #
+lastfm_username: #
 
 # Build settings
 markdown: kramdown
